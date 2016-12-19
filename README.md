@@ -1,6 +1,7 @@
 # Hanhan_Data_Science_Resources
 helpful resources for (big) data science
 
+Another small change to see about committing
 
 DATA PREPROCESSING
 
